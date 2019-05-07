@@ -1,0 +1,7 @@
+{
+    "id": "1",
+    "img": "assets/icons/games/game/billards_1.jpg",
+    "name": "Billiards",
+    "description" : "This billiard game is based on speed and your goal is to pocket all balls as soon as possible. There are 15 balls and the game finishes after all balls are pocketed. Your record is based on how many seconds you have spent for pocketing all balls and this will be considered as your final record",
+    "link": "http://104.251.211.113/htmlgames/5/billards/gamefiles/"
+}

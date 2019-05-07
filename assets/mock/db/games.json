@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "category": "Action & Adventure",
+        "games": [
+            {
+                "id": "1",
+                "img": "assets/icons/games/trending/cowboyrun.png",
+                "name": "CowBoy Run",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "2",
+                "img": "assets/icons/games/trending/eastermemory.png",
+                "name": "Easter Memory",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "3",
+                "img": "assets/icons/games/trending/halloweenbubblebash.png",
+                "name": "Halloween",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "4",
+                "img": "assets/icons/games/trending/cartooncandy.jpg",
+                "name": "Cartoon Candy",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "5",
+                "img": "assets/icons/games/trending/kidstruecolor.png",
+                "name": "Kids Truecolor",
+                "play": "5110",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category": "Strategy",
+        "games": [
+            {
+                "id": "1",
+                "img": "assets/icons/games/trending/cowboyrun.png",
+                "name": "CowBoy Run",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "2",
+                "img": "assets/icons/games/trending/eastermemory.png",
+                "name": "Easter Memory",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "3",
+                "img": "assets/icons/games/trending/halloweenbubblebash.png",
+                "name": "Halloween",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "4",
+                "img": "assets/icons/games/trending/cartooncandy.jpg",
+                "name": "Cartoon Candy",
+                "play": "5110",
+                "link": ""
+            },
+            {
+                "id": "5",
+                "img": "assets/icons/games/trending/kidstruecolor.png",
+                "name": "Kids Truecolor",
+                "play": "5110",
+                "link": ""
+            }
+        ]
+    }
+]
