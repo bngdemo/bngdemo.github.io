@@ -32,7 +32,7 @@
         "link":"http://demo.gamewheel.com/stacker/oracle/",
         "img": "assets/img/games/game5.png",
         "title": "Oracle",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 6,
@@ -46,69 +46,69 @@
         "link":"http://demo.gamewheel.com/cases/Cuuura/",
         "img": "assets/img/games/game7.png",
         "title": "Cuuura",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 8,
         "link":"http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game8.png",
         "title": "Burger King",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 9,
         "link":"http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game9.png",
         "title": "Burger King Hot Dog",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 11,
         "link":"http://play.gamewheel.com/pizzade/catcher/0.5/",
         "img": "assets/img/games/game11.png",
         "title": "Pizza De",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 12,
         "link":"http://play.gamewheel.com/foodpanda/catcher/0.1/",
         "img": "assets/img/games/game12.png",
         "title": "Food Panda",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 13,
         "link":"http://demo.gamewheel.com/cases/PenaltyKicks/",
         "img": "assets/img/games/game13.png",
         "title": "Pizza De Goal",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 15,
         "link":"http://demo.gamewheel.com/clients/USC/climbing/",
         "img": "assets/img/games/game15.jpeg",
         "title": "Urban Sports Club",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 16,
         "link":"https://preview.codecanyon.net/item/beer-pushing-html5-game/full_screen_preview/16585962?_ga=2.194630702.2055062773.1557145839-186910830.1557145839",
         "img": "assets/img/games/game16.jpeg",
         "title": "Budweiser",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 17,
         "link":"http://demo.gamewheel.com/collector/airplane/",
         "img": "assets/img/games/game17.jpeg",
         "title": "Airbnb",
-        "iframe_support" : true
+        "iframe_support" : false
     },
     {
         "_id": 18,
         "link":"http://demo.livexgames.com/wyngo/card.html",
         "img": "assets/img/games/game18.jpeg",
         "title": "Curve",
-        "iframe_support" : true
+        "iframe_support" : false
     }
 ]
