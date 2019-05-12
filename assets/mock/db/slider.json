@@ -1,0 +1,14 @@
+[
+    {
+        "_id" : 1,
+        "img" : "assets/img/slider/slider1.png"
+    },
+    {
+        "_id" : 2,
+        "img" : "assets/img/slider/slider2.png"
+    },
+    {
+        "_id" : 3,
+        "img" : "assets/img/slider/slider3.png"
+    }
+]

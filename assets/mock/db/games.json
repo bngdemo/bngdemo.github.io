@@ -1,84 +1,114 @@
 [
     {
-        "id": "1",
-        "category": "Action & Adventure",
-        "games": [
-            {
-                "id": "1",
-                "img": "assets/icons/games/trending/cowboyrun.png",
-                "name": "CowBoy Run",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "2",
-                "img": "assets/icons/games/trending/eastermemory.png",
-                "name": "Easter Memory",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "3",
-                "img": "assets/icons/games/trending/halloweenbubblebash.png",
-                "name": "Halloween",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "4",
-                "img": "assets/icons/games/trending/cartooncandy.jpg",
-                "name": "Cartoon Candy",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "5",
-                "img": "assets/icons/games/trending/kidstruecolor.png",
-                "name": "Kids Truecolor",
-                "play": "5110",
-                "link": ""
-            }
-        ]
+        "_id": 1,
+        "link":"https://cdn-factory.marketjs.com/en/mcdonalds-playable-ad/index.html",
+        "img": "assets/img/games/game1.png",
+        "title": "McDonald's",
+        "iframe_support" : false
     },
     {
-        "id": "2",
-        "category": "Strategy",
-        "games": [
-            {
-                "id": "1",
-                "img": "assets/icons/games/trending/cowboyrun.png",
-                "name": "CowBoy Run",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "2",
-                "img": "assets/icons/games/trending/eastermemory.png",
-                "name": "Easter Memory",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "3",
-                "img": "assets/icons/games/trending/halloweenbubblebash.png",
-                "name": "Halloween",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "4",
-                "img": "assets/icons/games/trending/cartooncandy.jpg",
-                "name": "Cartoon Candy",
-                "play": "5110",
-                "link": ""
-            },
-            {
-                "id": "5",
-                "img": "assets/icons/games/trending/kidstruecolor.png",
-                "name": "Kids Truecolor",
-                "play": "5110",
-                "link": ""
-            }
-        ]
+        "_id": 2,
+        "link":"http://disney.kraftdigital.de/coco/",
+        "img": "assets/img/games/game2.png",
+        "title": "Save The Bones",
+        "iframe_support" : false
+    },
+    {
+        "_id": 3,
+        "link":"https://cdn-factory.marketjs.com/en/amazon-playable-ad/index.html",
+        "img": "assets/img/games/game3.png",
+        "title": "Amazon",
+        "iframe_support" : false
+    },
+    {
+        "_id": 4,
+        "link":"https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
+        "img": "assets/img/games/game4.png",
+        "title": "Uber",
+        "iframe_support" : false
+    },
+    {
+        "_id": 5,
+        "link":"http://demo.gamewheel.com/stacker/oracle/",
+        "img": "assets/img/games/game5.png",
+        "title": "Oracle",
+        "iframe_support" : true
+    },
+    {
+        "_id": 6,
+        "link":"https://cdn-factory.marketjs.com/en/carousell-playable-ad/index.html",
+        "img": "assets/img/games/game6.png",
+        "title": "Carousell",
+        "iframe_support" : false
+    },
+    {
+        "_id": 7,
+        "link":"http://demo.gamewheel.com/cases/Cuuura/",
+        "img": "assets/img/games/game7.png",
+        "title": "Cuuura",
+        "iframe_support" : true
+    },
+    {
+        "_id": 8,
+        "link":"http://demo.gamewheel.com/cases/BK_AW/",
+        "img": "assets/img/games/game8.png",
+        "title": "Burger King",
+        "iframe_support" : true
+    },
+    {
+        "_id": 9,
+        "link":"http://demo.gamewheel.com/cases/BK_AW/",
+        "img": "assets/img/games/game9.png",
+        "title": "Burger King Hot Dog",
+        "iframe_support" : true
+    },
+    {
+        "_id": 11,
+        "link":"http://play.gamewheel.com/pizzade/catcher/0.5/",
+        "img": "assets/img/games/game11.png",
+        "title": "Pizza De",
+        "iframe_support" : true
+    },
+    {
+        "_id": 12,
+        "link":"http://play.gamewheel.com/foodpanda/catcher/0.1/",
+        "img": "assets/img/games/game12.png",
+        "title": "Food Panda",
+        "iframe_support" : true
+    },
+    {
+        "_id": 13,
+        "link":"http://demo.gamewheel.com/cases/PenaltyKicks/",
+        "img": "assets/img/games/game13.png",
+        "title": "Pizza De Goal",
+        "iframe_support" : true
+    },
+    {
+        "_id": 15,
+        "link":"http://demo.gamewheel.com/clients/USC/climbing/",
+        "img": "assets/img/games/game15.jpeg",
+        "title": "Urban Sports Club",
+        "iframe_support" : true
+    },
+    {
+        "_id": 16,
+        "link":"https://preview.codecanyon.net/item/beer-pushing-html5-game/full_screen_preview/16585962?_ga=2.194630702.2055062773.1557145839-186910830.1557145839",
+        "img": "assets/img/games/game16.jpeg",
+        "title": "Budweiser",
+        "iframe_support" : true
+    },
+    {
+        "_id": 17,
+        "link":"http://demo.gamewheel.com/collector/airplane/",
+        "img": "assets/img/games/game17.jpeg",
+        "title": "Airbnb",
+        "iframe_support" : true
+    },
+    {
+        "_id": 18,
+        "link":"http://demo.livexgames.com/wyngo/card.html",
+        "img": "assets/img/games/game18.jpeg",
+        "title": "Curve",
+        "iframe_support" : true
     }
 ]
