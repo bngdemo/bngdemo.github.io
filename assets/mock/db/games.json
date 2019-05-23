@@ -4,84 +4,130 @@
         "link":"https://cdn-factory.marketjs.com/en/mcdonalds-playable-ad/index.html",
         "img": "assets/img/games/game1.png",
         "title": "McDonald's",
-        "iframe_support" : false
+        "logo" : "assets/img/logo/mcdonalds.png",
+        "played" : 144,
+        "timer" : 6000000,
+        "iframe_support" : false,
+        "about": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona."
     },
     {
         "_id": 2,
         "link":"http://disney.kraftdigital.de/coco/",
         "img": "assets/img/games/game2.png",
         "title": "Save The Bones",
-        "iframe_support" : false
+        "logo" : "assets/img/logo/savethebones.jpg",
+        "played" : 231,
+        "timer" : 4000000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
     },
     {
         "_id": 3,
         "link":"https://cdn-factory.marketjs.com/en/amazon-playable-ad/index.html",
         "img": "assets/img/games/game3.png",
         "title": "Amazon",
-        "iframe_support" : false
+        "logo" : "assets/img/logo/amazon.png",
+        "played" : 107,
+        "timer" : 3600000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
     },
     {
         "_id": 4,
         "link":"https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
         "img": "assets/img/games/game4.png",
+        "logo" : "assets/img/logo/uber.jpg",
         "title": "Uber",
-        "iframe_support" : false
+        "played" : 116,
+        "timer" : 2500000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
     },
     {
         "_id": 5,
         "link":"http://demo.gamewheel.com/stacker/oracle/",
         "img": "assets/img/games/game5.png",
+        "logo" : "assets/img/logo/oracle.png",
         "title": "Oracle",
-        "iframe_support" : false
+        "played" : 186,
+        "timer" : 3600000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
     },
     {
         "_id": 6,
         "link":"https://cdn-factory.marketjs.com/en/carousell-playable-ad/index.html",
         "img": "assets/img/games/game6.png",
         "title": "Carousell",
-        "iframe_support" : false
+        "played" : 206,
+        "timer" : 6600000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
     },
     {
         "_id": 7,
         "link":"http://demo.gamewheel.com/cases/Cuuura/",
         "img": "assets/img/games/game7.png",
         "title": "Cuuura",
-        "iframe_support" : false
+        "played" : 206,
+        "timer" : 6600000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
+
     },
     {
         "_id": 8,
         "link":"http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game8.png",
+        "logo" : "assets/img/logo/burgerking.jpg",
         "title": "Burger King",
-        "iframe_support" : false
+        "played" : 206,
+        "timer" : 6600000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
+
     },
     {
         "_id": 9,
         "link":"http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game9.png",
+        "logo" : "assets/img/logo/burgerking.jpg",
         "title": "Burger King Hot Dog",
-        "iframe_support" : false
+        "played" : 206,
+        "timer" : 6200000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
+
     },
     {
         "_id": 11,
         "link":"http://play.gamewheel.com/pizzade/catcher/0.5/",
         "img": "assets/img/games/game11.png",
         "title": "Pizza De",
-        "iframe_support" : false
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
+
     },
     {
         "_id": 12,
         "link":"http://play.gamewheel.com/foodpanda/catcher/0.1/",
         "img": "assets/img/games/game12.png",
+        "logo" : "assets/img/logo/foodpanda.png",
         "title": "Food Panda",
-        "iframe_support" : false
+        "played" : 136,
+        "timer" : 5200000,
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
+
     },
     {
         "_id": 13,
         "link":"http://demo.gamewheel.com/cases/PenaltyKicks/",
         "img": "assets/img/games/game13.png",
         "title": "Pizza De Goal",
-        "iframe_support" : false
+        "iframe_support" : false,
+        "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
+
     },
     {
         "_id": 15,
