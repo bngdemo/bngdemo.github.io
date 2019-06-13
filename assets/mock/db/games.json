@@ -1,181 +1,213 @@
 [
     {
         "_id": 1,
-        "link":"https://cdn-factory.marketjs.com/en/mcdonalds-playable-ad/index.html",
+        "link": "https://cdn-factory.marketjs.com/en/mcdonalds-playable-ad/index.html",
         "img": "assets/img/games/game1.png",
         "title": "McDonald's",
-        "logo" : "assets/img/logo/mcdonalds.png",
-        "played" : 1444,
-        "timer" : 6000000,
-        "iframe_support" : false,
-        "about": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018."
+        "logo": "assets/img/logo/mcdonalds.png",
+        "played": 1444,
+        "timer": 6000000,
+        "iframe_support": false,
+        "about": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018.",
+        "video_quiz": {
+            "video": "",
+            "questions": [
+                {
+                    "ques": "What is the nickname for the Effil Tower?",
+                    "opitons": [
+                        "The Iron Lady",
+                        "The Iron Man",
+                        "The Iron Boy",
+                        "The Iron Girl"
+                    ],
+                    "ans": "The Iron Lady"
+                },
+                {
+                    "ques": "What is the nickname for the Effil Tower?",
+                    "opitons": [
+                        "The Iron Lady",
+                        "The Iron Man",
+                        "The Iron Boy",
+                        "The Iron Girl"
+                    ],
+                    "ans": "The Iron Lady"
+                },
+                {
+                    "ques": "What is the nickname for the Effil Tower?",
+                    "opitons": [
+                        "The Iron Lady",
+                        "The Iron Man",
+                        "The Iron Boy",
+                        "The Iron Girl"
+                    ],
+                    "ans": "The Iron Lady"
+                }
+            ]
+        }
     },
     {
         "_id": 2,
-        "link":"http://disney.kraftdigital.de/coco/",
+        "link": "http://disney.kraftdigital.de/coco/",
         "img": "assets/img/games/game2.png",
         "title": "Save The Bones",
-        "logo" : "assets/img/logo/savethebones.jpg",
-        "played" : 2031,
-        "timer" : 4000000,
-        "iframe_support" : false,
+        "logo": "assets/img/logo/savethebones.jpg",
+        "played": 2031,
+        "timer": 4000000,
+        "iframe_support": false,
         "about": "Coco is a 2017 American 3D computer-animated fantasy film produced by Pixar Animation Studios and released by Walt Disney Pictures. Based on an original idea by Lee Unkrich, it is directed by him and co-directed by Adrian Molina. The film's voice cast stars Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía and Edward James Olmos. The story follows a 12-year-old boy named Miguel who is accidentally transported to the Land of the Dead, where he seeks the help of his deceased musician great-great-grandfather to return him to his family among the living and to reverse his family’s ban on music."
     },
     {
         "_id": 3,
-        "link":"https://cdn-factory.marketjs.com/en/amazon-playable-ad/index.html",
+        "link": "https://cdn-factory.marketjs.com/en/amazon-playable-ad/index.html",
         "img": "assets/img/games/game3.png",
         "title": "Amazon",
-        "logo" : "assets/img/logo/amazon.png",
-        "played" : 4107,
-        "timer" : 3600000,
-        "iframe_support" : false,
+        "logo": "assets/img/logo/amazon.png",
+        "played": 4107,
+        "timer": 3600000,
+        "iframe_support": false,
         "about": "Amazon.com, Inc. (/ˈæməzɒn/), is an American multinational technology company based in Seattle, Washington that focuses on e-commerce, cloud computing, digital streaming and artificial intelligence. It is considered one the Big Four technology companies along with Google, Apple and Facebook. Amazon is known for its ability to disrupt well-established industries through technological innovation and mass scale.  It is the world's largest e-commerce marketplace, AI assistant provider, and cloud computing platform as measured by revenue and market capitalization.[14]Amazon is the largest Internet company by revenue in the world.It is the second largest employer in the United States and also the second most valuable company in the world by market capitalization."
     },
     {
         "_id": 4,
-        "link":"https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
+        "link": "https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
         "img": "assets/img/games/game4.png",
-        "logo" : "assets/img/logo/uber.jpg",
+        "logo": "assets/img/logo/uber.jpg",
         "title": "Uber",
-        "played" : 2116,
-        "timer" : 2500000,
-        "iframe_support" : false,
-        "about" : "Uber Technologies Inc. is an American multinational transportation network company (TNC) offering services that include peer-to-peer ridesharing, ride service hailing, food delivery, and a bicycle-sharing system. The company is based in San Francisco and has operations in 785 metropolitan areas worldwide. Its platforms can be accessed via its websites and mobile apps. As of 2019, Uber is estimated to have 110 million worldwide users[4] a 69.0% market share in the United States for passenger transport,and a 25% market share for food delivery.Uber has been so prominent in the sharing economy that the changes in industries as a result of it have been referred to as uberisation,and many startups have described their products as 'Uber for X'"
+        "played": 2116,
+        "timer": 2500000,
+        "iframe_support": false,
+        "about": "Uber Technologies Inc. is an American multinational transportation network company (TNC) offering services that include peer-to-peer ridesharing, ride service hailing, food delivery, and a bicycle-sharing system. The company is based in San Francisco and has operations in 785 metropolitan areas worldwide. Its platforms can be accessed via its websites and mobile apps. As of 2019, Uber is estimated to have 110 million worldwide users[4] a 69.0% market share in the United States for passenger transport,and a 25% market share for food delivery.Uber has been so prominent in the sharing economy that the changes in industries as a result of it have been referred to as uberisation,and many startups have described their products as 'Uber for X'"
     },
     {
         "_id": 5,
-        "link":"http://demo.gamewheel.com/stacker/oracle/",
+        "link": "http://demo.gamewheel.com/stacker/oracle/",
         "img": "assets/img/games/game5.png",
-        "logo" : "assets/img/logo/oracle.png",
+        "logo": "assets/img/logo/oracle.png",
         "title": "Oracle",
-        "played" : 2186,
-        "timer" : 3600000,
-        "iframe_support" : false,
+        "played": 2186,
+        "timer": 3600000,
+        "iframe_support": false,
         "about": "Larry Ellison co-founded Oracle Corporation in 1977 with Bob Miner and Ed Oates under the name Software Development Laboratories (SDL).[2] Ellison took inspiration from the 1970 paper written by Edgar F. Codd on relational database management systems (RDBMS) named 'A Relational Model of Data for Large Shared Data Banks'. He heard about the IBM System Rdatabase from an article in the IBM Research Journal provided by Oates. Ellison wanted to make Oracle's product compatible with System R, but failed to do so as IBM kept the error codes for their DBMS a secret. SDL changed its name to Relational Software, Inc (RSI) in 1979, then again to Oracle Systems Corporation in 1982,[9] to align itself more closely with its flagship product Oracle Database. At this stage Bob Miner served as the company's senior programmer. On March 12, 1986, the company had its initial public offering.In 1995, Oracle Systems Corporation changed its name to Oracle Corporation,[11] officially named Oracle, but sometimes referred to as Oracle Corporation, the name of the holding company.[12] Part of Oracle Corporation's early success arose from using the C programming language to implement its products. This eased porting to different operating systems (most of which support C)."
     },
     {
         "_id": 6,
-        "link":"https://cdn-factory.marketjs.com/en/carousell-playable-ad/index.html",
+        "link": "https://cdn-factory.marketjs.com/en/carousell-playable-ad/index.html",
         "img": "assets/img/games/game6.png",
-        "logo" : "assets/img/logo/carousell.jpeg",
+        "logo": "assets/img/logo/carousell.jpeg",
         "title": "Carousell",
-        "played" : 1206,
-        "timer" : 6600000,
-        "iframe_support" : false,
-        "about" : "Carousell received its first investment from Quest Ventures.In November 2013, Rakuten, with follow-on investments by Golden Gate Ventures, 500 Startups, and a few other investors invested $1 million in Carousell.Subsequently, in November 2014, Carousell announced that it received US$6 million in investment from Sequoia India.In August 2016, Carousell raised $35 million in their Series B funding round by Rakuten Ventures, Sequoia India, Golden Gate Ventures, and 500 Startups. As of 2016, over 23 million items had been sold on Carousell and users had created over 57 million listings of new and used items for sale."
+        "played": 1206,
+        "timer": 6600000,
+        "iframe_support": false,
+        "about": "Carousell received its first investment from Quest Ventures.In November 2013, Rakuten, with follow-on investments by Golden Gate Ventures, 500 Startups, and a few other investors invested $1 million in Carousell.Subsequently, in November 2014, Carousell announced that it received US$6 million in investment from Sequoia India.In August 2016, Carousell raised $35 million in their Series B funding round by Rakuten Ventures, Sequoia India, Golden Gate Ventures, and 500 Startups. As of 2016, over 23 million items had been sold on Carousell and users had created over 57 million listings of new and used items for sale."
     },
     {
         "_id": 7,
-        "link":"http://demo.gamewheel.com/cases/Cuuura/",
+        "link": "http://demo.gamewheel.com/cases/Cuuura/",
         "img": "assets/img/games/game7.png",
         "logo": "assets/img/logo/cuuura.png",
         "title": "Cuuura",
-        "played" : 1166,
-        "timer" : 4600000,
-        "iframe_support" : false,
+        "played": 1166,
+        "timer": 4600000,
+        "iframe_support": false,
         "about": "Cuuura is a highly engaged fashion community that provides guidance, opinions and advice on what to wear and what to buy…within seconds."
-
     },
     {
         "_id": 8,
-        "link":"http://demo.gamewheel.com/cases/BK_AW/",
+        "link": "http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game8.png",
-        "logo" : "assets/img/logo/burgerking.jpg",
+        "logo": "assets/img/logo/burgerking.jpg",
         "title": "Burger King",
-        "played" : 4216,
-        "timer" : 5600000,
-        "iframe_support" : false,
-        "about" : "Burger King (BK) is an American global chain of hamburger fast food restaurants. Headquartered in the unincorporated area of Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida–based restaurant chain. After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it 'Burger King'. Over the next half-century, the company would change hands four times, with its third set of owners, a partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners, taking it public in 2002. In late 2010, 3G Capital of Brazil acquired a majority stake in the company, in a deal valued at US$3.26 billion. The new owners promptly initiated a restructuring of the company to reverse its fortunes. 3G, along with partner Berkshire Hathaway, eventually merged the company with the Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International."
+        "played": 4216,
+        "timer": 5600000,
+        "iframe_support": false,
+        "about": "Burger King (BK) is an American global chain of hamburger fast food restaurants. Headquartered in the unincorporated area of Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida–based restaurant chain. After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it 'Burger King'. Over the next half-century, the company would change hands four times, with its third set of owners, a partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners, taking it public in 2002. In late 2010, 3G Capital of Brazil acquired a majority stake in the company, in a deal valued at US$3.26 billion. The new owners promptly initiated a restructuring of the company to reverse its fortunes. 3G, along with partner Berkshire Hathaway, eventually merged the company with the Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International."
     },
     {
         "_id": 9,
-        "link":"http://demo.gamewheel.com/cases/BK_AW/",
+        "link": "http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game9.png",
-        "logo" : "assets/img/logo/burgerking.jpg",
+        "logo": "assets/img/logo/burgerking.jpg",
         "title": "Burger King Hot Dog",
-        "played" : 2189,
-        "timer" : 4200000,
-        "iframe_support" : false,
-        "about" : "Burger King (BK) is an American global chain of hamburger fast food restaurants. Headquartered in the unincorporated area of Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida–based restaurant chain. After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it 'Burger King'. Over the next half-century, the company would change hands four times, with its third set of owners, a partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners, taking it public in 2002. In late 2010, 3G Capital of Brazil acquired a majority stake in the company, in a deal valued at US$3.26 billion. The new owners promptly initiated a restructuring of the company to reverse its fortunes. 3G, along with partner Berkshire Hathaway, eventually merged the company with the Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International."
+        "played": 2189,
+        "timer": 4200000,
+        "iframe_support": false,
+        "about": "Burger King (BK) is an American global chain of hamburger fast food restaurants. Headquartered in the unincorporated area of Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida–based restaurant chain. After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it 'Burger King'. Over the next half-century, the company would change hands four times, with its third set of owners, a partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners, taking it public in 2002. In late 2010, 3G Capital of Brazil acquired a majority stake in the company, in a deal valued at US$3.26 billion. The new owners promptly initiated a restructuring of the company to reverse its fortunes. 3G, along with partner Berkshire Hathaway, eventually merged the company with the Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International."
     },
     {
         "_id": 11,
-        "link":"http://play.gamewheel.com/pizzade/catcher/0.5/",
+        "link": "http://play.gamewheel.com/pizzade/catcher/0.5/",
         "img": "assets/img/games/game11.png",
-        "logo" : "assets/img/logo/pizaade.png",
+        "logo": "assets/img/logo/pizaade.png",
         "title": "Pizza De",
-        "played" : 3206,
-        "timer" : 6200000,
-        "iframe_support" : false,
+        "played": 3206,
+        "timer": 6200000,
+        "iframe_support": false,
         "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
-
     },
     {
         "_id": 12,
-        "link":"http://play.gamewheel.com/foodpanda/catcher/0.1/",
+        "link": "http://play.gamewheel.com/foodpanda/catcher/0.1/",
         "img": "assets/img/games/game12.png",
-        "logo" : "assets/img/logo/foodpanda.png",
+        "logo": "assets/img/logo/foodpanda.png",
         "title": "Food Panda",
-        "played" : 5236,
-        "timer" : 4200000,
-        "iframe_support" : false,
-        "about" : "Foodpanda (stylized as foodpanda) is a German mobile food delivery marketplace headquartered in Berlin, Germany, operating in 40 countries and territories. The service allows users to select from local restaurants and place orders via its mobile applications as well as its websites. The company has partnered with over 27,095 restaurants in 193 cities and works with over 15,733 delivery riders. The firm was acquired by Delivery Hero in early December 2016.Foodpanda's business in India was acquired by Indian cab-aggregator Ola on 29 December 2017 for an undisclosed amount."
+        "played": 5236,
+        "timer": 4200000,
+        "iframe_support": false,
+        "about": "Foodpanda (stylized as foodpanda) is a German mobile food delivery marketplace headquartered in Berlin, Germany, operating in 40 countries and territories. The service allows users to select from local restaurants and place orders via its mobile applications as well as its websites. The company has partnered with over 27,095 restaurants in 193 cities and works with over 15,733 delivery riders. The firm was acquired by Delivery Hero in early December 2016.Foodpanda's business in India was acquired by Indian cab-aggregator Ola on 29 December 2017 for an undisclosed amount."
     },
     {
         "_id": 13,
-        "link":"http://demo.gamewheel.com/cases/PenaltyKicks/",
+        "link": "http://demo.gamewheel.com/cases/PenaltyKicks/",
         "img": "assets/img/games/game13.png",
-        "logo" : "assets/img/logo/pizaade.png",
+        "logo": "assets/img/logo/pizaade.png",
         "title": "Pizza De Goal",
-        "played" : 1102,
-        "timer" : 3200000,
-        "iframe_support" : false,
+        "played": 1102,
+        "timer": 3200000,
+        "iframe_support": false,
         "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
-
     },
     {
         "_id": 15,
-        "link":"http://demo.gamewheel.com/clients/USC/climbing/",
+        "link": "http://demo.gamewheel.com/clients/USC/climbing/",
         "img": "assets/img/games/game15.jpeg",
-        "logo" : "assets/img/logo/urbansport.jpg",
+        "logo": "assets/img/logo/urbansport.jpg",
         "title": "Urban Sports Club",
-        "played" : 1246,
-        "timer" : 7200000,
-        "iframe_support" : false,
-        "about" : "Urban Sports Club, the European market leader for sports flat rate memberships, has secured an 8-digit financing round led by Partech. The investment will be used to foster international growth, with a focus on strengthening the offer in France. The young company will open new cities, add new venues and invest in marketing activities to raise awareness for its offer and its studio partners. Urban Sports Club is the first German company to receive financing through the Partech Growth fund."
+        "played": 1246,
+        "timer": 7200000,
+        "iframe_support": false,
+        "about": "Urban Sports Club, the European market leader for sports flat rate memberships, has secured an 8-digit financing round led by Partech. The investment will be used to foster international growth, with a focus on strengthening the offer in France. The young company will open new cities, add new venues and invest in marketing activities to raise awareness for its offer and its studio partners. Urban Sports Club is the first German company to receive financing through the Partech Growth fund."
     },
     {
         "_id": 16,
-        "link":"https://preview.codecanyon.net/item/beer-pushing-html5-game/full_screen_preview/16585962?_ga=2.194630702.2055062773.1557145839-186910830.1557145839",
+        "link": "https://preview.codecanyon.net/item/beer-pushing-html5-game/full_screen_preview/16585962?_ga=2.194630702.2055062773.1557145839-186910830.1557145839",
         "img": "assets/img/games/game16.jpeg",
         "logo": "assets/img/logo/budweiser.jpeg",
         "title": "Budweiser",
-        "played" : 3203,
-        "timer" : 4200000,
-        "iframe_support" : false,
+        "played": 3203,
+        "timer": 4200000,
+        "iframe_support": false,
         "about": "Budweiser (/bʌdˈwaɪzər/) is an American-style pale lager produced by Anheuser-Busch, currently part of the transnational corporation Anheuser-Busch InBev and produced in various breweries around the world.[1] There is an unrelated lager also called Budweiser, originating centuries ago in Budweis, Bohemia and made by Budweiser Budvar Brewery of České Budějovice, Czech Republic; this has given rise to a trademark dispute preventing Anheuser-Busch from using the 'Budweiser' name in some regions, leading to the exclusive use of 'Bud' in those markets."
     },
     {
         "_id": 17,
-        "link":"http://demo.gamewheel.com/collector/airplane/",
+        "link": "http://demo.gamewheel.com/collector/airplane/",
         "img": "assets/img/games/game17.jpeg",
         "logo": "assets/img/logo/airbnb.png",
-        "title": "Airbnb",  
-        "played" : 4197,
-        "timer" : 5200000,
-        "iframe_support" : false,
+        "title": "Airbnb",
+        "played": 4197,
+        "timer": 5200000,
+        "iframe_support": false,
         "about": "A‌i‌r‌b‌n‌b‌,‌ ‌I‌n‌c‌.‌, headquartered in San Francisco, operates a global online marketplace and hospitality service accessible via its websites and mobile apps. Members can use the service to arrange or offer lodging, primarily homestays, or tourism experiences. The company does not own any of the real estate listings, nor does it host events; it acts as a broker, receiving commissions from every booking.The company's name is a shortened version of its original name, AirBedandBreakfast.com; the company got its start after its founders put an air mattress in their living room and turned their apartment into a bed and breakfast."
     },
     {
         "_id": 18,
-        "link":"http://demo.livexgames.com/wyngo/card.html",
+        "link": "http://demo.livexgames.com/wyngo/card.html",
         "img": "assets/img/games/game18.jpeg",
         "logo": "assets/img/logo/curve.jpeg",
         "title": "Curve",
-        "played" : 5236,
-        "timer" : 6200000,
-        "iframe_support" : false,
+        "played": 5236,
+        "timer": 6200000,
+        "iframe_support": false,
         "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod a aspernatur, eveniet molestiae incidunt unde. Ipsam molestiae perspiciatis corporis nam ipsa non, earum facilis incidunt sit consequatur quos quaerat aliquam?"
     }
 ]
