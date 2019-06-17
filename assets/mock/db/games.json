@@ -3,52 +3,19 @@
         "_id": 1,
         "link": "https://cdn-factory.marketjs.com/en/mcdonalds-playable-ad/index.html",
         "img": "assets/img/games/game1.png",
+        "video": "assets/video/games/game1.mp4",
         "title": "McDonald's",
         "logo": "assets/img/logo/mcdonalds.png",
         "played": 1444,
         "timer": 6000000,
         "iframe_support": false,
-        "about": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018.",
-        "video_quiz": {
-            "video": "",
-            "questions": [
-                {
-                    "ques": "What is the nickname for the Effil Tower?",
-                    "opitons": [
-                        "The Iron Lady",
-                        "The Iron Man",
-                        "The Iron Boy",
-                        "The Iron Girl"
-                    ],
-                    "ans": "The Iron Lady"
-                },
-                {
-                    "ques": "What is the nickname for the Effil Tower?",
-                    "opitons": [
-                        "The Iron Lady",
-                        "The Iron Man",
-                        "The Iron Boy",
-                        "The Iron Girl"
-                    ],
-                    "ans": "The Iron Lady"
-                },
-                {
-                    "ques": "What is the nickname for the Effil Tower?",
-                    "opitons": [
-                        "The Iron Lady",
-                        "The Iron Man",
-                        "The Iron Boy",
-                        "The Iron Girl"
-                    ],
-                    "ans": "The Iron Lady"
-                }
-            ]
-        }
+        "about": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018."
     },
     {
         "_id": 2,
         "link": "http://disney.kraftdigital.de/coco/",
         "img": "assets/img/games/game2.png",
+        "video": "assets/video/games/game2.mp4",
         "title": "Save The Bones",
         "logo": "assets/img/logo/savethebones.jpg",
         "played": 2031,
@@ -60,6 +27,7 @@
         "_id": 3,
         "link": "https://cdn-factory.marketjs.com/en/amazon-playable-ad/index.html",
         "img": "assets/img/games/game3.png",
+        "video": "assets/video/games/game3.mp4",
         "title": "Amazon",
         "logo": "assets/img/logo/amazon.png",
         "played": 4107,
@@ -71,6 +39,7 @@
         "_id": 4,
         "link": "https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
         "img": "assets/img/games/game4.png",
+        "video": "assets/video/games/game4.mp4",
         "logo": "assets/img/logo/uber.jpg",
         "title": "Uber",
         "played": 2116,
@@ -82,6 +51,7 @@
         "_id": 5,
         "link": "http://demo.gamewheel.com/stacker/oracle/",
         "img": "assets/img/games/game5.png",
+        "video": "assets/video/games/game5.mp4",
         "logo": "assets/img/logo/oracle.png",
         "title": "Oracle",
         "played": 2186,
@@ -93,6 +63,7 @@
         "_id": 6,
         "link": "https://cdn-factory.marketjs.com/en/carousell-playable-ad/index.html",
         "img": "assets/img/games/game6.png",
+        "video": "assets/video/games/game6.mp4",
         "logo": "assets/img/logo/carousell.jpeg",
         "title": "Carousell",
         "played": 1206,
@@ -104,6 +75,7 @@
         "_id": 7,
         "link": "http://demo.gamewheel.com/cases/Cuuura/",
         "img": "assets/img/games/game7.png",
+        "video": "assets/video/games/game7.mp4",
         "logo": "assets/img/logo/cuuura.png",
         "title": "Cuuura",
         "played": 1166,
@@ -115,6 +87,7 @@
         "_id": 8,
         "link": "http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game8.png",
+        "video": "assets/video/games/game8.mp4",
         "logo": "assets/img/logo/burgerking.jpg",
         "title": "Burger King",
         "played": 4216,
@@ -126,6 +99,7 @@
         "_id": 9,
         "link": "http://demo.gamewheel.com/cases/BK_AW/",
         "img": "assets/img/games/game9.png",
+        "video": "assets/video/games/game9.mp4",
         "logo": "assets/img/logo/burgerking.jpg",
         "title": "Burger King Hot Dog",
         "played": 2189,
@@ -137,6 +111,7 @@
         "_id": 11,
         "link": "http://play.gamewheel.com/pizzade/catcher/0.5/",
         "img": "assets/img/games/game11.png",
+        "video": "assets/video/games/game10.mp4",
         "logo": "assets/img/logo/pizaade.png",
         "title": "Pizza De",
         "played": 3206,
@@ -148,6 +123,7 @@
         "_id": 12,
         "link": "http://play.gamewheel.com/foodpanda/catcher/0.1/",
         "img": "assets/img/games/game12.png",
+        "video": "assets/video/games/game11.mp4",        
         "logo": "assets/img/logo/foodpanda.png",
         "title": "Food Panda",
         "played": 5236,
@@ -159,6 +135,7 @@
         "_id": 13,
         "link": "http://demo.gamewheel.com/cases/PenaltyKicks/",
         "img": "assets/img/games/game13.png",
+        "video": "assets/video/games/game10.mp4",
         "logo": "assets/img/logo/pizaade.png",
         "title": "Pizza De Goal",
         "played": 1102,
@@ -170,6 +147,7 @@
         "_id": 15,
         "link": "http://demo.gamewheel.com/clients/USC/climbing/",
         "img": "assets/img/games/game15.jpeg",
+        "video": "assets/video/games/game13.mp4",
         "logo": "assets/img/logo/urbansport.jpg",
         "title": "Urban Sports Club",
         "played": 1246,
@@ -181,6 +159,7 @@
         "_id": 16,
         "link": "https://preview.codecanyon.net/item/beer-pushing-html5-game/full_screen_preview/16585962?_ga=2.194630702.2055062773.1557145839-186910830.1557145839",
         "img": "assets/img/games/game16.jpeg",
+        "video": "assets/video/games/game14.mp4",
         "logo": "assets/img/logo/budweiser.jpeg",
         "title": "Budweiser",
         "played": 3203,
@@ -192,6 +171,7 @@
         "_id": 17,
         "link": "http://demo.gamewheel.com/collector/airplane/",
         "img": "assets/img/games/game17.jpeg",
+        "video": "assets/video/games/game15.mp4",
         "logo": "assets/img/logo/airbnb.png",
         "title": "Airbnb",
         "played": 4197,
@@ -203,6 +183,7 @@
         "_id": 18,
         "link": "http://demo.livexgames.com/wyngo/card.html",
         "img": "assets/img/games/game18.jpeg",
+        "video": "assets/video/games/game16.mp4",
         "logo": "assets/img/logo/curve.jpeg",
         "title": "Curve",
         "played": 5236,

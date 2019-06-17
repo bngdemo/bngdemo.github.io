@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Oneplus",
+        "img": "assets/img/videos/oneplus.png",
+        "src": "assets/video/oneplus.mp4",
+        "questions": [
+            {
+                "ques": "Which operating system One plus 7 is running on?",
+                "opitons": [
+                    "Android Kitkat",
+                    "OxygenOS",
+                    "Android Extended 0.9",
+                    "None of the above"
+                ],
+                "ans": "OxygenOS"
+            },
+            {
+                "ques": "What is the slogan of One Plus 7?",
+                "opitons": [
+                    "Go Beyond Speed",
+                    "Light Speed",
+                    "Speed and You",
+                    "Free Speed"
+                ],
+                "ans": "The Iron Lady"
+            },
+            {
+                "ques": "First release date of One Plus 7?",
+                "opitons": [
+                    "May 13, 2019",
+                    "May 14, 2019",
+                    "May 15, 2019",
+                    "May 16, 2019"
+                ],
+                "ans": "The Iron Lady"
+            },
+            {
+                "ques": "Pop up selfie camera in One Plus 7?",
+                "opitons": [
+                    "True",
+                    "False",
+                    "None of the Above",
+                    "Will be available in next version"
+                ],
+                "ans": "True"
+            }
+        ]
+    },
+    {
+        "title": "MG Hector",
+        "img": "assets/img/videos/mghector.png",
+        "src": "assets/video/mghector.mp4",
+        "questions": [
+            {
+                "ques": "Is MG Hector a Luxury SUV?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "It is a compact SUV",
+                    "None of the above"
+                ],
+                "ans": "OxygenOS"
+            },
+            {
+                "ques": "Type of parking assist in MG hector?",
+                "opitons": [
+                    "180 Degree",
+                    "360 Degree",
+                    "90 Degree",
+                    "Rotational Camera"
+                ],
+                "ans": "The Iron Lady"
+            },
+            {
+                "ques": "What will be the starting price of MG Hector cars?",
+                "opitons": [
+                    "15 Lac",
+                    "25 Lac",
+                    "10 Lac",
+                    "28 Lac"
+                ],
+                "ans": "The Iron Lady"
+            }
+        ]
+    },
+    {
+        "title": "Samsung",
+        "img": "assets/img/videos/samsung.png",
+        "src": "assets/video/samsung.mp4",
+        "questions": [
+            {
+                "ques": "Does Samsung Galaxy S10 support OTG?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "None of the above"
+                ],
+                "ans": "OxygenOS"
+            },
+            {
+                "ques": "Is Samsung Galaxy S10 Waterproof?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "None of the above"
+                ],
+                "ans": "The Iron Lady"
+            },
+            {
+                "ques": "Does Samsung Galaxy S10 support VOLTE ?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "None of the above"
+                ],
+                "ans": "The Iron Lady"
+            }
+        ]
+    },
+    {
+        "title": "Oppo",
+        "img": "assets/img/videos/oppo.png",
+        "src": "assets/video/oppo.mp4",
+        "questions": [
+            {
+                "ques": "Does OPPO Reno support OTG?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "None of the above"
+                ],
+                "ans": "OxygenOS"
+            },
+            {
+                "ques": "Is OPPO Reno Waterproof?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "None of the above"
+                ],
+                "ans": "The Iron Lady"
+            },
+            {
+                "ques": "Does OPPO Reno support VOLTE ?",
+                "opitons": [
+                    "Yes",
+                    "No",
+                    "None of the above"
+                ],
+                "ans": "The Iron Lady"
+            }
+        ]
+    }
+]
