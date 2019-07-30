@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : 1,
+        "title": "uber",
+        "img" : "assets/img/slider/watchslider1.png",
+        "is_recommended": false,
+        "is_info": true
+    },
+    {
+        "_id" : 2,
+        "title": "ola",
+        "img" : "assets/img/slider/watchslider2.png",
+        "is_recommended": true,
+        "is_info": false
+    },
+    {
+        "_id" : 3,
+        "title": "uber-eats",
+        "img" : "assets/img/slider/watchslider3.png",
+        "is_recommended": false,
+        "is_info": true
+    }
+]

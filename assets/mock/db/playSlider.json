@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : 1,
+        "img" : "assets/img/slider/slider1.png",
+        "link": "https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
+        "is_recommended": false,
+        "is_info": true
+    },
+    {
+        "_id" : 2,
+        "link": "https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
+        "img" : "assets/img/slider/slider2.png",
+        "is_recommended": true,
+        "is_info": false
+    },
+    {
+        "_id" : 3,
+        "link": "https://cdn-factory.marketjs.com/en/uber-playable-ad/index.html",
+        "img" : "assets/img/slider/slider3.png",
+        "is_recommended": false,
+        "is_info": true
+    }
+]

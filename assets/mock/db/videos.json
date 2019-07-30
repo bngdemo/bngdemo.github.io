@@ -1,8 +1,10 @@
 [
     {
-        "title": "Oneplus",
-        "img": "assets/img/videos/oneplus.png",
-        "src": "assets/video/oneplus.mp4",
+        "title": "uber",
+        "img": "assets/videos/img/video1.png",
+        "src": "assets/videos/video1.mp4",
+        "is_recommended": false,
+        "is_info": true,
         "questions": [
             {
                 "ques": "Which operating system One plus 7 is running on?",
@@ -47,9 +49,11 @@
         ]
     },
     {
-        "title": "MG Hector",
-        "img": "assets/img/videos/mghector.png",
-        "src": "assets/video/mghector.mp4",
+        "title": "ola",
+        "img": "assets/videos/img/video2.png",
+        "src": "assets/videos/video2.mp4",
+        "is_recommended": true,
+        "is_info": false,
         "questions": [
             {
                 "ques": "Is MG Hector a Luxury SUV?",
@@ -84,9 +88,11 @@
         ]
     },
     {
-        "title": "Samsung",
-        "img": "assets/img/videos/samsung.png",
-        "src": "assets/video/samsung.mp4",
+        "title": "uber-eats",
+        "img": "assets/videos/img/video3.png",
+        "src": "assets/videos/video3.mp4",
+        "is_recommended": false,
+        "is_info": true,
         "questions": [
             {
                 "ques": "Does Samsung Galaxy S10 support OTG?",
@@ -108,40 +114,6 @@
             },
             {
                 "ques": "Does Samsung Galaxy S10 support VOLTE ?",
-                "opitons": [
-                    "Yes",
-                    "No",
-                    "None of the above"
-                ],
-                "ans": "The Iron Lady"
-            }
-        ]
-    },
-    {
-        "title": "Oppo",
-        "img": "assets/img/videos/oppo.png",
-        "src": "assets/video/oppo.mp4",
-        "questions": [
-            {
-                "ques": "Does OPPO Reno support OTG?",
-                "opitons": [
-                    "Yes",
-                    "No",
-                    "None of the above"
-                ],
-                "ans": "OxygenOS"
-            },
-            {
-                "ques": "Is OPPO Reno Waterproof?",
-                "opitons": [
-                    "Yes",
-                    "No",
-                    "None of the above"
-                ],
-                "ans": "The Iron Lady"
-            },
-            {
-                "ques": "Does OPPO Reno support VOLTE ?",
                 "opitons": [
                     "Yes",
                     "No",
